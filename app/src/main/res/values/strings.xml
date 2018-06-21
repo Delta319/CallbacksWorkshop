@@ -4,4 +4,5 @@
     <string name="change_activity_textview">Change Activity Textview</string>
     <string name="change_activity_background_color">Change Activity Background Color</string>
     <string name="remove_fragment_from_activity">Remove Fragment From Activity</string>
+    <string name="fragment_callback_received">Callback from Fragment Received</string>
 </resources>

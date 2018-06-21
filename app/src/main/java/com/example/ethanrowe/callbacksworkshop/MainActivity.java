@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements CallbackFragment.
     @Override
     public void changeTextview() {
 
-        textView.setText("Callback from Fragment Received");
+        textView.setText(R.string.fragment_callback_received);
     }
 
     @Override
